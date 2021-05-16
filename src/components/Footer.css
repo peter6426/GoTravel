@@ -1,0 +1,19 @@
+.main-footer {
+    color: white;
+    background-color:#242424;
+    padding-top: 1em;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    width: 100%;
+  }
+  
+  .col{
+    justify-content: center;
+    text-align: center;
+    
+}
+  .col-sm{
+      justify-content: center;
+      display: flex;
+      
+  }
